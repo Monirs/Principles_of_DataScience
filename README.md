@@ -1,2 +1,2 @@
-# Principles_of_DataScience
-Project
+# Principles_of_DataScience Project
+Your details
